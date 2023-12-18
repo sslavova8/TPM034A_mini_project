@@ -1,0 +1,556 @@
+Project_id,project_outcomes,technoogical_field,year,network_density,network_degree_centralization,network_diameter,network_clustering,network_reach,research_location,technological_diversity,geographical_diversity,project_leader_experience,member_relational_experience,funds,project_joint_members
+1,1,Life_Sciences,1989,0.2,0.29,6,0.62,26.66732026,Wageningen Universiteit,0.357142857,0.266666667,1,0,225.97,0.18
+2,0,Life_Sciences,1989,0.2,0.29,6,0.62,26.66732026,Vrije Universiteit Amsterdam,0.428571429,0.2,0,0,545,0.16
+3,1,Life_Sciences,1989,0.2,0.29,6,0.62,26.66732026,Wageningen Universiteit,1,1,0,0,262.36,0.08
+4,1,Life_Sciences,1989,0.2,0.29,6,0.62,26.66732026,Wageningen Universiteit,0.214285714,0.266666667,0,0,477.71,0.18
+5,1,Life_Sciences,1989,0.2,0.29,6,0.62,26.66732026,Vrije Universiteit Amsterdam,1,0,0,0,496.1,0.3
+6,0,Life_Sciences,1989,0.2,0.29,6,0.62,26.66732026,Universiteit Utrecht,1,0,0,0,500.45,0.14
+7,1,Life_Sciences,1989,0.2,0.29,6,0.62,26.66732026,Wageningen Universiteit,0.4,0.25,0,0,1325.92,0.18
+8,1,Life_Sciences,1989,0.2,0.29,6,0.62,26.66732026,Wageningen Universiteit,1,0.333333333,0,0,374.29,0.14
+9,1,Life_Sciences,1989,0.2,0.29,6,0.62,26.66732026,Rijksuniversiteit Groningen,0.2,0.3,0,0,383.88,0.08
+10,0,Life_Sciences,1989,0.2,0.29,6,0.62,26.66732026,Universiteit Leiden,0.642857143,0.266666667,0,0,352.15,0.18
+11,0,Life_Sciences,1989,0.2,0.29,6,0.62,26.66732026,Rijksuniversiteit Groningen,1,0.166666667,1,0,200.94,0.04
+12,0,Life_Sciences,1989,0.2,0.29,6,0.62,26.66732026,Universiteit Utrecht,1,1,1,0,86.44,0.06
+13,1,Life_Sciences,1990,0.2,0.29,6,0.66,31.15396825,Universiteit Utrecht,0.4,0.3,0,0,528.45,0.4
+14,1,Life_Sciences,1990,0.2,0.29,6,0.66,31.15396825,Rijksuniversiteit Groningen,1,1,1,1,905.36,0.23
+15,0,Life_Sciences,1990,0.2,0.29,6,0.66,31.15396825,Universiteit van Amsterdam,1,1,0,0,203.2,0.08
+16,1,Life_Sciences,1990,0.2,0.29,6,0.66,31.15396825,Universiteit Utrecht,0.263157895,0.238095238,1,5,183.4,0.2
+17,0,Life_Sciences,1990,0.2,0.29,6,0.66,31.15396825,Wageningen Universiteit,1,1,0,0,184.52,0.18
+18,0,Life_Sciences,1990,0.2,0.29,6,0.66,31.15396825,Vrije Universiteit Amsterdam,0.5,0.5,2,4,284.28,0.22
+19,0,Life_Sciences,1990,0.2,0.29,6,0.66,31.15396825,Rijksuniversiteit Groningen,0.333333333,1,2,0,620.34,0.25
+20,0,Life_Sciences,1990,0.2,0.29,6,0.66,31.15396825,Wageningen Universiteit,0.6,0.3,0,0,175.83,0.23
+21,1,Life_Sciences,1990,0.2,0.29,6,0.66,31.15396825,Rijksuniversiteit Groningen,0.428571429,0.2,1,3,479.32,0.05
+22,1,Life_Sciences,1990,0.2,0.29,6,0.66,31.15396825,Universiteit Utrecht,0.166666667,0.166666667,0,0,472.94,0.07
+23,1,Life_Sciences,1990,0.2,0.29,6,0.66,31.15396825,Wageningen Universiteit,0.6,0.2,0,0,352.92,0.12
+24,0,Life_Sciences,1990,0.2,0.29,6,0.66,31.15396825,Universiteit Leiden,0,1,1,0,414.69,0.02
+25,1,Life_Sciences,1990,0.2,0.29,6,0.66,31.15396825,Universiteit van Amsterdam,0.642857143,0.266666667,0,0,341.89,0.25
+26,1,Life_Sciences,1990,0.2,0.29,6,0.66,31.15396825,Universiteit van Amsterdam,0.333333333,1,1,0,450.81,0.32
+27,1,Life_Sciences,1990,0.2,0.29,6,0.66,31.15396825,Radboud Universiteit Nijmegen,0.333333333,0,0,0,249.11,0.33
+28,0,Life_Sciences,1990,0.2,0.29,6,0.66,31.15396825,Vrije Universiteit Amsterdam,1,0,1,0,463.57,0.32
+29,0,Life_Sciences,1990,0.2,0.29,6,0.66,31.15396825,Rijksuniversiteit Groningen,0.333333333,0.333333333,0,0,220.46,0.17
+30,1,Life_Sciences,1991,0.18,0.27,6,0.64,35.20428571,Universiteit van Amsterdam,0.642857143,0.666666667,1,1,196.04,0.14
+31,0,Life_Sciences,1991,0.18,0.27,6,0.64,35.20428571,Rijksuniversiteit Groningen,0.4,0.2,1,4,201.16,0.13
+32,0,Life_Sciences,1991,0.18,0.27,6,0.64,35.20428571,Vrije Universiteit Amsterdam,0.275,0.088888889,1,3,444.75,0.14
+33,0,Life_Sciences,1991,0.18,0.27,6,0.64,35.20428571,Wageningen Universiteit,0,0,0,0,1235.49,0.22
+34,0,Life_Sciences,1991,0.18,0.27,6,0.64,35.20428571,Vrije Universiteit Amsterdam,0.428571429,0.266666667,1,3,585.19,0.3
+35,1,Life_Sciences,1991,0.18,0.27,6,0.64,35.20428571,Wageningen Universiteit,0.428571429,0.266666667,0,0,538.38,0.35
+36,0,Life_Sciences,1991,0.18,0.27,6,0.64,35.20428571,Rijksuniversiteit Groningen,0.642857143,0.2,0,0,595.44,0.04
+37,0,Life_Sciences,1991,0.18,0.27,6,0.64,35.20428571,Wageningen Universiteit,0,1,0,0,780.5,0.07
+38,0,Life_Sciences,1991,0.18,0.27,6,0.64,35.20428571,Universiteit Leiden,0.6,0.6,0,0,934.85,0.28
+39,0,Life_Sciences,1991,0.18,0.27,6,0.64,35.20428571,Universiteit van Maastricht,0.333333333,0.333333333,0,0,785.62,0.06
+40,0,Life_Sciences,1991,0.18,0.27,6,0.64,35.20428571,Universiteit Leiden,0.333333333,1,0,0,529.61,0.01
+41,1,Life_Sciences,1992,0.18,0.28,6,0.62,30.03954802,Technische Universiteit Delft,0.214285714,0.266666667,1,0,470.8,0.26
+42,0,Life_Sciences,1993,0.15,0.27,8,0.61,33.29409938,Wageningen Universiteit,0,0.333333333,1,2,352.67,0.12
+43,0,Life_Sciences,1993,0.15,0.27,8,0.61,33.29409938,Universiteit Utrecht,0,0,2,1,815.31,0.1
+44,1,Life_Sciences,1993,0.15,0.27,8,0.61,33.29409938,Wageningen Universiteit,0.333333333,0.5,2,0,146.97,0.04
+45,0,Life_Sciences,1993,0.15,0.27,8,0.61,33.29409938,Wageningen Universiteit,0.210526316,0.476190476,1,1,1116.12,0.25
+46,1,Life_Sciences,1993,0.15,0.27,8,0.61,33.29409938,Radboud Universiteit Nijmegen,0,0,1,0,763.65,0.03
+47,1,Life_Sciences,1993,0.15,0.27,8,0.61,33.29409938,Universiteit van Amsterdam,0.157894737,0.285714286,0,0,816.77,0.18
+48,1,Life_Sciences,1993,0.15,0.27,8,0.61,33.29409938,Universiteit Leiden,1,0.333333333,0,0,719.53,0.12
+49,1,Life_Sciences,1993,0.15,0.27,8,0.61,33.29409938,Universiteit Leiden,0.15625,0.166666667,0,0,627.95,0.35
+50,0,Life_Sciences,1993,0.15,0.27,8,0.61,33.29409938,Radboud Universiteit Nijmegen,0.16,0.071428571,0,0,864.18,0.32
+51,1,Life_Sciences,1993,0.15,0.27,8,0.61,33.29409938,Vrije Universiteit Amsterdam,0.333333333,0.166666667,0,0,576.69,0.03
+52,1,Life_Sciences,1993,0.15,0.27,8,0.61,33.29409938,Radboud Universiteit Nijmegen,0.4,0.1,0,0,438.54,0.03
+53,0,Life_Sciences,1993,0.15,0.27,8,0.61,33.29409938,Vrije Universiteit Amsterdam,0.263157895,0.142857143,0,0,344.51,0.18
+54,1,Life_Sciences,1993,0.15,0.27,8,0.61,33.29409938,Wageningen Universiteit,0.357142857,0.066666667,0,0,586.61,0.06
+55,1,Life_Sciences,1993,0.15,0.27,8,0.61,33.29409938,Wageningen Universiteit,0,0,0,0,548.06,0.04
+56,1,Life_Sciences,1993,0.15,0.27,8,0.61,33.29409938,Vrije Universiteit Amsterdam,1,1,0,0,372.71,0.09
+57,0,Life_Sciences,1993,0.15,0.27,8,0.61,33.29409938,Wageningen Universiteit,0.333333333,0,0,0,196.63,0.03
+58,0,Life_Sciences,1993,0.15,0.27,8,0.61,33.29409938,Rijksuniversiteit Groningen,0.333333333,0.166666667,0,0,383.22,0.01
+59,1,Life_Sciences,1994,0.13,0.24,7,0.58,28.75575092,Wageningen Universiteit,0.333333333,0.333333333,0,0,361.18,0.06
+60,0,Life_Sciences,1994,0.13,0.24,7,0.58,28.75575092,Buiten-Universitaire Onderzoekinstellingen,0.2,0.2,6,0,134.55,0.28
+61,1,Life_Sciences,1994,0.13,0.24,7,0.58,28.75575092,Rijksuniversiteit Groningen,0.357142857,0.266666667,0,0,505.52,0.19
+62,1,Life_Sciences,1994,0.13,0.24,7,0.58,28.75575092,Universiteit Utrecht,1,1,3,1,206.03,0.02
+63,0,Life_Sciences,1994,0.13,0.24,7,0.58,28.75575092,Vrije Universiteit Amsterdam,1,0.166666667,3,5,239.82,0.17
+64,1,Life_Sciences,1994,0.13,0.24,7,0.58,28.75575092,Universiteit Utrecht,1,1,1,0,367.35,0.03
+65,0,Life_Sciences,1994,0.13,0.24,7,0.58,28.75575092,Wageningen Universiteit,0.333333333,0.333333333,1,1,931.67,0.14
+66,1,Life_Sciences,1994,0.13,0.24,7,0.58,28.75575092,Radboud Universiteit Nijmegen,0.166666667,0.166666667,2,0,743.92,0.14
+67,1,Life_Sciences,1994,0.13,0.24,7,0.58,28.75575092,Vrije Universiteit Amsterdam,1,1,1,0,526.18,0.13
+68,1,Life_Sciences,1994,0.13,0.24,7,0.58,28.75575092,Universiteit Utrecht,1,1,0,0,542.38,0.06
+69,1,Life_Sciences,1994,0.13,0.24,7,0.58,28.75575092,Universiteit Utrecht,1,0,0,0,618.55,0.03
+70,0,Life_Sciences,1994,0.13,0.24,7,0.58,28.75575092,Radboud Universiteit Nijmegen,0.357142857,0.066666667,0,0,416.2,0.14
+71,1,Life_Sciences,1994,0.13,0.24,7,0.58,28.75575092,Universiteit Leiden,0.166666667,0,0,0,378.71,0.06
+72,0,Life_Sciences,1994,0.13,0.24,7,0.58,28.75575092,Universiteit Utrecht,0.214285714,0.133333333,0,0,484.72,0.05
+73,1,Life_Sciences,1994,0.13,0.24,7,0.58,28.75575092,Vrije Universiteit Amsterdam,0.357142857,0.2,0,0,703.49,0.14
+74,0,Life_Sciences,1994,0.13,0.24,7,0.58,28.75575092,Buiten-Universitaire Onderzoekinstellingen,0.142857143,0.4,0,0,337.96,0.14
+75,0,Life_Sciences,1994,0.13,0.24,7,0.58,28.75575092,Wageningen Universiteit,0.333333333,1,0,0,416.99,0.06
+76,0,Life_Sciences,1995,0.1,0.18,7,0.53,29.71200537,Wageningen Universiteit,0.333333333,0,2,2,357.51,0.13
+77,0,Life_Sciences,1995,0.1,0.18,7,0.53,29.71200537,Universiteit Utrecht,0.6,0.2,0,0,202.81,0.14
+78,0,Life_Sciences,1995,0.1,0.18,7,0.53,29.71200537,Universiteit Utrecht,0.6,0.2,0,0,202.03,0.14
+79,1,Life_Sciences,1995,0.1,0.18,7,0.53,29.71200537,Wageningen Universiteit,1,0,0,0,360.5,0.1
+80,1,Life_Sciences,1995,0.1,0.18,7,0.53,29.71200537,Universiteit Leiden,0.3,0.4,0,0,388.76,0.13
+81,0,Life_Sciences,1995,0.1,0.18,7,0.53,29.71200537,Universiteit Utrecht,0.428571429,0.066666667,0,0,654.76,0.09
+82,1,Life_Sciences,1995,0.1,0.18,7,0.53,29.71200537,Wageningen Universiteit,1,1,1,0,341.37,0.01
+83,0,Life_Sciences,1995,0.1,0.18,7,0.53,29.71200537,Universiteit van Amsterdam,0,1,1,1,434.29,0.13
+84,1,Life_Sciences,1995,0.1,0.18,7,0.53,29.71200537,Rijksuniversiteit Groningen,1,0,1,0,612.13,0.03
+85,1,Life_Sciences,1995,0.1,0.18,7,0.53,29.71200537,Wageningen Universiteit,0.166666667,0.166666667,1,0,735.23,0.04
+86,0,Life_Sciences,1995,0.1,0.18,7,0.53,29.71200537,Radboud Universiteit Nijmegen,1,1,3,0,466.67,0.07
+87,1,Life_Sciences,1995,0.1,0.18,7,0.53,29.71200537,Rijksuniversiteit Groningen,1,1,0,0,704.52,0.07
+88,1,Life_Sciences,1995,0.1,0.18,7,0.53,29.71200537,Wageningen Universiteit,0.1,0.2,0,0,667.94,0.19
+89,0,Life_Sciences,1995,0.1,0.18,7,0.53,29.71200537,Universiteit Utrecht,0.2,0.3,0,0,784.17,0.09
+90,0,Life_Sciences,1995,0.1,0.18,7,0.53,29.71200537,Wageningen Universiteit,0.166666667,0.5,0,0,591.26,0.04
+91,0,Life_Sciences,1995,0.1,0.18,7,0.53,29.71200537,Universiteit Leiden,0.333333333,1,0,0,547.83,0.03
+92,1,Life_Sciences,1995,0.1,0.18,7,0.53,29.71200537,Universiteit Utrecht,0.166666667,0,1,1,761.73,0.06
+93,1,Life_Sciences,1995,0.1,0.18,7,0.53,29.71200537,Universiteit Leiden,0.333333333,0.333333333,0,0,387.16,0.03
+94,1,Life_Sciences,1995,0.1,0.18,7,0.53,29.71200537,Erasmus Universiteit Rotterdam,1,0,0,0,638.1,0.13
+95,1,Life_Sciences,1995,0.1,0.18,7,0.53,29.71200537,Universiteit Utrecht,0.473684211,0.095238095,0,0,392.9,0.06
+96,1,Life_Sciences,1995,0.1,0.18,7,0.53,29.71200537,Universiteit Utrecht,1,0,0,0,685.13,0.1
+97,1,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Wageningen Universiteit,0.4,0.1,2,0,612.06,0.08
+98,0,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Universiteit Utrecht,0.473684211,0.428571429,2,0,521.17,0.02
+99,0,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Universiteit Utrecht,0.333333333,0.166666667,1,0,454.93,0.12
+100,0,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Universiteit Utrecht,1,1,0,0,516.19,0.06
+101,1,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Universiteit Leiden,0,0.333333333,0,0,416.33,0.05
+102,1,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Wageningen Universiteit,0.333333333,0,0,0,629.89,0.12
+103,1,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Wageningen Universiteit,0.5,0.333333333,0,0,404.87,0.11
+104,0,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Wageningen Universiteit,0.5,0.333333333,0,0,464.57,0.12
+105,1,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Wageningen Universiteit,0,0.333333333,0,0,237.13,0.01
+106,1,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Wageningen Universiteit,0.263157895,0.19047619,1,1,391.62,0.13
+107,1,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Universiteit Utrecht,0.333333333,1,2,3,376.04,0.08
+108,0,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Vrije Universiteit Amsterdam,0.333333333,0.333333333,0,0,425.6,0.11
+109,1,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Universiteit Utrecht,0.071428571,0.066666667,1,0,882.57,0.01
+110,0,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Wageningen Universiteit,0.642857143,0.466666667,3,1,546.72,0.22
+111,0,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Rijksuniversiteit Groningen,0.3,0.2,0,0,271.21,0.14
+112,1,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Radboud Universiteit Nijmegen,0,0,1,1,353.88,0.04
+113,1,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Vrije Universiteit Amsterdam,0.4,0.2,2,2,659.77,0.02
+114,1,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Rijksuniversiteit Groningen,1,0.266666667,1,4,677.55,0.08
+115,0,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Para-universitaire Instituten,0.166666667,0.166666667,1,2,844.91,0.12
+116,1,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Radboud Universiteit Nijmegen,0.3,0.2,0,0,385.28,0.12
+117,0,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Rijksuniversiteit Groningen,0.333333333,1,1,2,421.25,0.13
+118,0,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Rijksuniversiteit Groningen,0.2,0.1,0,0,625.42,0.1
+119,1,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Wageningen Universiteit,0.354166667,0.109090909,1,0,636.29,0.25
+120,1,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Wageningen Universiteit,0.5,0.166666667,0,0,240.87,0.03
+121,1,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Universiteit van Maastricht,0.684210526,0.476190476,0,0,1788.48,0.13
+122,1,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Universiteit Utrecht,0.333333333,0.166666667,0,0,672.49,0.04
+123,0,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Wageningen Universiteit,0.4,0.3,0,0,336.75,0.08
+124,0,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Universiteit Utrecht,0.6,0.6,0,0,595.71,0.14
+125,1,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Universiteit Leiden,0.473684211,0.333333333,1,1,580.36,0.22
+126,0,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Vrije Universiteit Amsterdam,0.333333333,0,1,0,232.28,0.08
+127,1,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Vrije Universiteit Amsterdam,0.157894737,0.19047619,0,0,630.18,0.19
+128,0,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Universiteit Leiden,0.166666667,0.166666667,0,0,456.4,0.13
+129,0,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Vrije Universiteit Amsterdam,0.6,0.3,0,0,499.74,0.1
+130,0,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Wageningen Universiteit,0.333333333,0.333333333,0,0,399.82,0.12
+131,1,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Universiteit Utrecht,0.684210526,0.333333333,0,0,1037.9,0.14
+132,1,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Universiteit Utrecht,0,0.333333333,0,0,378.44,0.13
+133,1,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Universiteit Utrecht,1,0.2,1,2,252.77,0.2
+134,0,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Wageningen Universiteit,0.357142857,0.666666667,0,0,503.56,0.09
+135,1,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Para-universitaire Instituten,0.166666667,0.333333333,0,0,466.27,0.02
+136,0,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Universiteit Utrecht,1,1,0,0,496.56,0.06
+137,0,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Wageningen Universiteit,0,0,0,0,183.26,0.01
+138,1,Life_Sciences,1996,0.1,0.16,6,0.54,45.50539683,Radboud Universiteit Nijmegen,0.263157895,0.142857143,0,0,366.44,0.02
+139,1,Life_Sciences,1997,0.09,0.18,6,0.55,52.33743169,Wageningen Universiteit,0.166666667,1,0,0,377.11,0.02
+140,0,Life_Sciences,1997,0.09,0.18,6,0.55,52.33743169,Wageningen Universiteit,0.5,0.166666667,0,0,430.15,0.09
+141,0,Life_Sciences,1997,0.09,0.18,6,0.55,52.33743169,Universiteit Utrecht,0.166666667,0.166666667,1,1,261.78,0.13
+142,1,Life_Sciences,1997,0.09,0.18,6,0.55,52.33743169,Rijksuniversiteit Groningen,1,1,0,0,1012.55,0.08
+143,1,Life_Sciences,1997,0.09,0.18,6,0.55,52.33743169,Vrije Universiteit Amsterdam,0.5,0.166666667,0,0,512.76,0.05
+144,1,Life_Sciences,1997,0.09,0.18,6,0.55,52.33743169,Wageningen Universiteit,0.5,0.166666667,2,3,158.92,0.09
+145,1,Life_Sciences,1997,0.09,0.18,6,0.55,52.33743169,Universiteit Utrecht,0.333333333,0,3,13,320.4,0.09
+146,1,Life_Sciences,1997,0.09,0.18,6,0.55,52.33743169,Rijksuniversiteit Groningen,0.3,0.1,1,1,563.52,0.03
+147,1,Life_Sciences,1997,0.09,0.18,6,0.55,52.33743169,Universiteit Utrecht,0.071428571,0.066666667,0,0,615.46,0.09
+148,1,Life_Sciences,1997,0.09,0.18,6,0.55,52.33743169,Technische Universiteit Delft,0.2,0.3,5,9,528.81,0.09
+149,1,Life_Sciences,1997,0.09,0.18,6,0.55,52.33743169,Wageningen Universiteit,0.105263158,0.19047619,2,7,141.53,0.12
+150,0,Life_Sciences,1997,0.09,0.18,6,0.55,52.33743169,Universiteit Utrecht,0.5,0.5,3,13,312.48,0.11
+151,0,Life_Sciences,1997,0.09,0.18,6,0.55,52.33743169,Universiteit Utrecht,1,0.333333333,0,0,125.74,0.12
+152,0,Life_Sciences,1997,0.09,0.18,6,0.55,52.33743169,Universiteit Leiden,0.333333333,1,1,2,462.5,0.02
+153,1,Life_Sciences,1997,0.09,0.18,6,0.55,52.33743169,Universiteit Leiden,0.214285714,0.266666667,0,0,387.93,0.05
+154,1,Life_Sciences,1997,0.09,0.18,6,0.55,52.33743169,Universiteit Leiden,1,0.333333333,0,0,228.24,0.12
+155,0,Life_Sciences,1997,0.09,0.18,6,0.55,52.33743169,Vrije Universiteit Amsterdam,0.357142857,0.666666667,0,0,376.45,0.12
+156,1,Life_Sciences,1997,0.09,0.18,6,0.55,52.33743169,Wageningen Universiteit,0,0.333333333,0,0,875.32,0.08
+157,1,Life_Sciences,1997,0.09,0.18,6,0.55,52.33743169,Universiteit Leiden,0,1,0,0,202.02,0.08
+158,0,Life_Sciences,1997,0.09,0.18,6,0.55,52.33743169,Wageningen Universiteit,0.214285714,0.4,0,0,815.27,0.02
+159,0,Life_Sciences,1997,0.09,0.18,6,0.55,52.33743169,Wageningen Universiteit,0.166666667,0.166666667,0,0,527.44,0.12
+160,1,Life_Sciences,1997,0.09,0.18,6,0.55,52.33743169,Universiteit Utrecht,0.333333333,0.333333333,0,0,989.5,0.02
+161,1,Life_Sciences,1997,0.09,0.18,6,0.55,52.33743169,Universiteit Leiden,1,0.333333333,0,0,758.58,0.02
+162,1,Life_Sciences,1998,0.09,0.15,6,0.58,58.14493827,Wageningen Universiteit,0.210526316,0.238095238,0,0,13.87,0.1
+163,1,Life_Sciences,1998,0.09,0.15,6,0.58,58.14493827,Wageningen Universiteit,0,0,1,1,432.42,0.11
+164,1,Life_Sciences,1998,0.09,0.15,6,0.58,58.14493827,Universiteit Utrecht,1,1,1,1,687.05,0.07
+165,0,Life_Sciences,1998,0.09,0.15,6,0.58,58.14493827,Universiteit Leiden,1,1,1,0,234.22,0.09
+166,0,Life_Sciences,1998,0.09,0.15,6,0.58,58.14493827,Universiteit Utrecht,0.333333333,0,1,1,511.12,0.1
+167,1,Life_Sciences,1998,0.09,0.15,6,0.58,58.14493827,Universiteit Twente,1,0,11,2,874.56,0.12
+168,1,Life_Sciences,1998,0.09,0.15,6,0.58,58.14493827,Universiteit Utrecht,0,0,1,1,673.34,0.03
+169,1,Life_Sciences,1998,0.09,0.15,6,0.58,58.14493827,Vrije Universiteit Amsterdam,0.684210526,0.333333333,1,1,609.62,0.2
+170,0,Life_Sciences,1998,0.09,0.15,6,0.58,58.14493827,Wageningen Universiteit,0.214285714,0.266666667,1,1,616.44,0.11
+171,1,Life_Sciences,1998,0.09,0.15,6,0.58,58.14493827,Wageningen Universiteit,0.5,0.166666667,0,0,585.2,0.07
+172,1,Life_Sciences,1998,0.09,0.15,6,0.58,58.14493827,Wageningen Universiteit,0.6,0.3,0,0,219.86,0.1
+173,0,Life_Sciences,1998,0.09,0.15,6,0.58,58.14493827,Universiteit Utrecht,1,0,0,0,564.48,0.1
+174,1,Life_Sciences,1998,0.09,0.15,6,0.58,58.14493827,Wageningen Universiteit,0.357142857,0.266666667,0,0,248.68,0.02
+175,0,Life_Sciences,1998,0.09,0.15,6,0.58,58.14493827,Universiteit Leiden,0.36,0.214285714,0,0,658.71,0.15
+176,0,Life_Sciences,1998,0.09,0.15,6,0.58,58.14493827,Wageningen Universiteit,0.214285714,0.133333333,0,0,522.04,0.19
+177,0,Life_Sciences,1998,0.09,0.15,6,0.58,58.14493827,Universiteit Leiden,1,0,0,0,594.17,0.12
+178,1,Life_Sciences,1998,0.09,0.15,6,0.58,58.14493827,Rijksuniversiteit Groningen,0.1,0.111111111,0,0,325.49,0.13
+179,1,Life_Sciences,1998,0.09,0.15,6,0.58,58.14493827,Universiteit Utrecht,0.5,0.166666667,0,0,586.3,0.1
+180,1,Life_Sciences,1998,0.09,0.15,6,0.58,58.14493827,Vrije Universiteit Amsterdam,1,0,0,0,805.43,0.07
+181,0,Life_Sciences,1998,0.09,0.15,6,0.58,58.14493827,Erasmus Universiteit Rotterdam,0.2,0.2,0,0,134.58,0.1
+182,1,Life_Sciences,1998,0.09,0.15,6,0.58,58.14493827,Universiteit Utrecht,1,1,0,0,1578.54,0.08
+183,1,Life_Sciences,1998,0.09,0.15,6,0.58,58.14493827,Universiteit van Amsterdam,0.642857143,0.666666667,0,0,271.4,0.04
+184,0,Life_Sciences,1998,0.09,0.15,6,0.58,58.14493827,Universiteit Utrecht,0.214285714,0.466666667,0,0,390.28,0.04
+185,0,Life_Sciences,1999,0.09,0.2,6,0.58,62.15791962,Wageningen Universiteit,0,0.333333333,1,1,500.11,0.09
+186,1,Life_Sciences,1999,0.09,0.2,6,0.58,62.15791962,Rijksuniversiteit Groningen,0.333333333,0.333333333,0,0,539.4,0.07
+187,1,Life_Sciences,1999,0.09,0.2,6,0.58,62.15791962,Wageningen Universiteit,0.333333333,1,0,0,856.26,0.08
+188,0,Life_Sciences,1999,0.09,0.2,6,0.58,62.15791962,Technische Universiteit Delft,0,0,0,0,578.35,0.09
+189,1,Life_Sciences,1999,0.09,0.2,6,0.58,62.15791962,Wageningen Universiteit,1,0,1,0,251.02,0.09
+190,1,Life_Sciences,1999,0.09,0.2,6,0.58,62.15791962,Wageningen Universiteit,0.357142857,0.4,0,0,51.19,0.16
+191,0,Life_Sciences,1999,0.09,0.2,6,0.58,62.15791962,Universiteit Leiden,1,0,1,0,588.33,0.01
+192,0,Life_Sciences,1999,0.09,0.2,6,0.58,62.15791962,Universiteit Leiden,0.105263158,0.095238095,0,0,674.07,0.29
+193,1,Life_Sciences,1999,0.09,0.2,6,0.58,62.15791962,Wageningen Universiteit,0.32,0.178571429,1,0,768.33,0.16
+194,1,Life_Sciences,1999,0.09,0.2,6,0.58,62.15791962,Wageningen Universiteit,0.4,0.285714286,4,3,673.14,0.23
+195,1,Life_Sciences,1999,0.09,0.2,6,0.58,62.15791962,Wageningen Universiteit,0.791666667,0.509090909,1,1,795.13,0.04
+196,1,Life_Sciences,1999,0.09,0.2,6,0.58,62.15791962,Wageningen Universiteit,1,0.1,0,0,531.94,0.07
+197,0,Life_Sciences,1999,0.09,0.2,6,0.58,62.15791962,Universiteit Utrecht,0,0,1,0,1214.48,0.01
+198,1,Life_Sciences,1999,0.09,0.2,6,0.58,62.15791962,Wageningen Universiteit,0.16,0.035714286,1,3,281.94,0.11
+199,1,Life_Sciences,1999,0.09,0.2,6,0.58,62.15791962,Universiteit Leiden,0.1,0.3,1,2,362.51,0.11
+200,1,Life_Sciences,1999,0.09,0.2,6,0.58,62.15791962,Rijksuniversiteit Groningen,1,0,1,1,426.42,0.09
+201,0,Life_Sciences,1999,0.09,0.2,6,0.58,62.15791962,Universiteit Utrecht,0.166666667,0.166666667,1,4,292.71,0.16
+202,1,Life_Sciences,1999,0.09,0.2,6,0.58,62.15791962,Radboud Universiteit Nijmegen,0,0,3,1,1246.88,0.03
+203,0,Life_Sciences,1999,0.09,0.2,6,0.58,62.15791962,Universiteit Leiden,1,0,2,4,352.06,0.09
+204,1,Life_Sciences,1999,0.09,0.2,6,0.58,62.15791962,Wageningen Universiteit,0.157894737,0.19047619,1,3,958.11,0.16
+205,1,Life_Sciences,1999,0.09,0.2,6,0.58,62.15791962,Wageningen Universiteit,0.1875,0.218181818,0,0,722.67,0.17
+206,0,Life_Sciences,1999,0.09,0.2,6,0.58,62.15791962,Rijksuniversiteit Groningen,0.5,0.166666667,0,0,550.77,0.07
+207,1,Life_Sciences,1999,0.09,0.2,6,0.58,62.15791962,Wageningen Universiteit,0.357142857,0.4,0,0,87.24,0.16
+208,1,Life_Sciences,1999,0.09,0.2,6,0.58,62.15791962,Universiteit Twente,0.642857143,0.4,0,0,936.5,0.15
+209,0,Life_Sciences,1999,0.09,0.2,6,0.58,62.15791962,Wageningen Universiteit,0.357142857,0.4,0,0,142.56,0.16
+210,1,Life_Sciences,1999,0.09,0.2,6,0.58,62.15791962,Wageningen Universiteit,0.5,0.166666667,0,0,269.25,0.06
+211,0,Life_Sciences,1999,0.09,0.2,6,0.58,62.15791962,Universiteit Utrecht,1,1,0,0,253.35,0.02
+212,0,Life_Sciences,2000,0.09,0.18,7,0.58,59.30269151,Vrije Universiteit Amsterdam,0.333333333,0.333333333,1,0,742.99,0.1
+213,0,Life_Sciences,2000,0.09,0.18,7,0.58,59.30269151,Wageningen Universiteit,1,1,1,0,443.14,0.04
+214,0,Life_Sciences,2000,0.09,0.18,7,0.58,59.30269151,Universiteit Utrecht,1,0,2,2,602.02,0.03
+215,1,Life_Sciences,2000,0.09,0.18,7,0.58,59.30269151,Universiteit Leiden,0.166666667,0.5,1,1,630.53,0.19
+216,0,Life_Sciences,2000,0.09,0.18,7,0.58,59.30269151,Universiteit van Amsterdam,0.357142857,0.133333333,0,0,659.05,0.01
+217,0,Life_Sciences,2000,0.09,0.18,7,0.58,59.30269151,Vrije Universiteit Amsterdam,0.6,0.1,3,4,693.84,0.07
+218,0,Life_Sciences,2000,0.09,0.18,7,0.58,59.30269151,Universiteit Leiden,1,0,4,8,152.57,0.09
+219,0,Life_Sciences,2000,0.09,0.18,7,0.58,59.30269151,Wageningen Universiteit,0.5,0.166666667,1,1,540.44,0.01
+220,1,Life_Sciences,2000,0.09,0.18,7,0.58,59.30269151,Wageningen Universiteit,0.24,0.035714286,1,0,1910.2,0.13
+221,0,Life_Sciences,2000,0.09,0.18,7,0.58,59.30269151,Vrije Universiteit Amsterdam,1,0,3,4,779.92,0.01
+222,0,Life_Sciences,2000,0.09,0.18,7,0.58,59.30269151,Vrije Universiteit Amsterdam,1,0,0,0,1459.03,0.09
+223,0,Life_Sciences,2000,0.09,0.18,7,0.58,59.30269151,Universiteit Utrecht,0.166666667,0.333333333,0,0,215.33,0.14
+224,1,Life_Sciences,2000,0.09,0.18,7,0.58,59.30269151,Vrije Universiteit Amsterdam,0.2,0.1,0,0,417.04,0.13
+225,0,Life_Sciences,2000,0.09,0.18,7,0.58,59.30269151,Wageningen Universiteit,1,0,0,0,1044.49,0.05
+226,0,Life_Sciences,2000,0.09,0.18,7,0.58,59.30269151,Vrije Universiteit Amsterdam,0,1,0,0,138.3,0.04
+227,1,Life_Sciences,2000,0.09,0.18,7,0.58,59.30269151,Universiteit Utrecht,0.333333333,0,0,0,499.51,0.07
+228,0,Life_Sciences,2000,0.09,0.18,7,0.58,59.30269151,Wageningen Universiteit,0,0.333333333,0,0,673.89,0.11
+229,1,Life_Sciences,2000,0.09,0.18,7,0.58,59.30269151,Universiteit Leiden,1,1,1,1,397.23,0.07
+230,1,Life_Sciences,2000,0.09,0.18,7,0.58,59.30269151,Wageningen Universiteit,0.357142857,0.133333333,0,0,234.9,0.14
+231,0,Life_Sciences,2000,0.09,0.18,7,0.58,59.30269151,Universiteit Leiden,1,1,0,0,183.23,0.07
+232,1,Life_Sciences,2000,0.09,0.18,7,0.58,59.30269151,Buiten-Universitaire Onderzoekinstellingen,0.166666667,1,0,0,143.49,0.01
+233,0,Life_Sciences,2000,0.09,0.18,7,0.58,59.30269151,Wageningen Universiteit,0.6,0.6,0,0,431.68,0.02
+234,1,Life_Sciences,2000,0.09,0.18,7,0.58,59.30269151,Universiteit Utrecht,1,1,1,0,645.71,0.01
+235,1,Life_Sciences,2000,0.09,0.18,7,0.58,59.30269151,Radboud Universiteit Nijmegen,1,1,0,0,709.74,0.01
+236,1,Life_Sciences,2001,0.11,0.18,7,0.61,48.9715528,Wageningen Universiteit,0.3,0.2,1,1,926.48,0.18
+237,1,Life_Sciences,2001,0.11,0.18,7,0.61,48.9715528,Technische Universiteit Delft,1,0.333333333,0,0,701.74,0.14
+238,1,Life_Sciences,2001,0.11,0.18,7,0.61,48.9715528,Universiteit Utrecht,0.166666667,0.166666667,1,2,479.5,0.25
+239,1,Life_Sciences,2001,0.11,0.18,7,0.61,48.9715528,Rijksuniversiteit Groningen,0.421052632,0.19047619,0,0,729.35,0.16
+240,0,Life_Sciences,2001,0.11,0.18,7,0.61,48.9715528,Wageningen Universiteit,0.375,0.055555556,0,0,394.78,0.28
+241,0,Life_Sciences,2001,0.11,0.18,7,0.61,48.9715528,Wageningen Universiteit,0.2,0,1,3,577.68,0.13
+242,0,Life_Sciences,2001,0.11,0.18,7,0.61,48.9715528,Wageningen Universiteit,0,1,0,0,430.16,0.12
+243,1,Life_Sciences,2001,0.11,0.18,7,0.61,48.9715528,Wageningen Universiteit,0.2,0.1,0,0,621.73,0.19
+244,1,Life_Sciences,2001,0.11,0.18,7,0.61,48.9715528,Para-universitaire Instituten,0.684210526,0.285714286,0,0,168.49,0.18
+245,0,Life_Sciences,2001,0.11,0.18,7,0.61,48.9715528,Universiteit Utrecht,1,0,1,1,254.34,0.01
+246,1,Life_Sciences,2002,0.1,0.17,7,0.62,51.66806039,Wageningen Universiteit,0.333333333,0.333333333,2,2,437.24,0.13
+247,1,Life_Sciences,2002,0.1,0.17,7,0.62,51.66806039,Universiteit Utrecht,0,0,3,3,435.08,0.12
+248,0,Life_Sciences,2002,0.1,0.17,7,0.62,51.66806039,Rijksuniversiteit Groningen,1,1,1,1,423.65,0.03
+249,0,Life_Sciences,2002,0.1,0.17,7,0.62,51.66806039,Wageningen Universiteit,1,0,2,2,476.36,0.17
+250,0,Life_Sciences,2002,0.1,0.17,7,0.62,51.66806039,Universiteit Leiden,0.16,0.107142857,1,7,475.22,0.15
+251,1,Life_Sciences,2002,0.1,0.17,7,0.62,51.66806039,Universiteit Utrecht,0,0,3,0,176.96,0.13
+252,1,Life_Sciences,2002,0.1,0.17,7,0.62,51.66806039,Universiteit Leiden,0.4,0.2,1,7,490.06,0.2
+253,1,Life_Sciences,2002,0.1,0.17,7,0.62,51.66806039,Radboud Universiteit Nijmegen,0.3,0.3,2,1,376.82,0.06
+254,0,Life_Sciences,2002,0.1,0.17,7,0.62,51.66806039,Wageningen Universiteit,0.357142857,0.4,3,0,527.26,0.16
+255,0,Life_Sciences,2002,0.1,0.17,7,0.62,51.66806039,Vrije Universiteit Amsterdam,0.6,0.3,1,2,841.51,0.14
+256,1,Life_Sciences,2002,0.1,0.17,7,0.62,51.66806039,Universiteit Twente,0.125,0.111111111,2,4,1383.6,0.04
+257,1,Life_Sciences,2002,0.1,0.17,7,0.62,51.66806039,Universiteit Utrecht,0.333333333,0,0,0,324.72,0.17
+258,0,Life_Sciences,2002,0.1,0.17,7,0.62,51.66806039,Universiteit Utrecht,0.421052632,0.19047619,0,0,767.65,0.13
+259,1,Life_Sciences,2002,0.1,0.17,7,0.62,51.66806039,Rijksuniversiteit Groningen,1,0.1,0,0,530.6,0.12
+260,1,Life_Sciences,2002,0.1,0.17,7,0.62,51.66806039,Universiteit Utrecht,0.3,0.3,0,0,667.38,0.13
+261,1,Life_Sciences,2002,0.1,0.17,7,0.62,51.66806039,Wageningen Universiteit,0.5,0.166666667,0,0,718.18,0.01
+262,1,Life_Sciences,2002,0.1,0.17,7,0.62,51.66806039,Universiteit Utrecht,0.333333333,0.333333333,0,0,862.8,0.08
+263,0,Life_Sciences,2002,0.1,0.17,7,0.62,51.66806039,Universiteit Utrecht,0.333333333,0.333333333,0,0,657.01,0.11
+264,1,Life_Sciences,2002,0.1,0.17,7,0.62,51.66806039,Universiteit Utrecht,0.333333333,0,1,0,1121.95,0.18
+265,1,Life_Sciences,2002,0.1,0.17,7,0.62,51.66806039,Universiteit Utrecht,0.333333333,0.333333333,1,0,675.61,0.03
+266,0,Life_Sciences,2002,0.1,0.17,7,0.62,51.66806039,Radboud Universiteit Nijmegen,0.5,0,2,0,845.34,0.06
+267,1,Life_Sciences,2002,0.1,0.17,7,0.62,51.66806039,Rijksuniversiteit Groningen,0.333333333,0.333333333,0,0,246.46,0.07
+268,0,Life_Sciences,2002,0.1,0.17,7,0.62,51.66806039,Wageningen Universiteit,0,0,0,0,369.66,0.07
+269,1,Life_Sciences,2002,0.1,0.17,7,0.62,51.66806039,Universiteit Utrecht,1,0,0,0,531.08,0.03
+270,1,Life_Sciences,2003,0.11,0.2,7,0.62,52.24936915,Wageningen Universiteit,0.333333333,0,1,2,1030.87,0.03
+271,0,Life_Sciences,2003,0.11,0.2,7,0.62,52.24936915,Universiteit Leiden,0.166666667,0,1,2,580.31,0.16
+272,1,Life_Sciences,2003,0.11,0.2,7,0.62,52.24936915,Radboud Universiteit Nijmegen,1,0.166666667,3,2,411.8,0.04
+273,1,Life_Sciences,2003,0.11,0.2,7,0.62,52.24936915,Rijksuniversiteit Groningen,0.333333333,0,2,1,505.76,0.03
+274,1,Life_Sciences,2003,0.11,0.2,7,0.62,52.24936915,Wageningen Universiteit,0.166666667,0.166666667,3,2,512.72,0.16
+275,1,Life_Sciences,2003,0.11,0.2,7,0.62,52.24936915,Wageningen Universiteit,0.428571429,0,4,6,1024.27,0.17
+276,1,Life_Sciences,2003,0.11,0.2,7,0.62,52.24936915,Vrije Universiteit Amsterdam,0.071428571,0.066666667,0,0,60.7,0.05
+277,1,Life_Sciences,2003,0.11,0.2,7,0.62,52.24936915,Universiteit Utrecht,0.32,0.107142857,0,0,854.75,0.05
+278,1,Life_Sciences,2003,0.11,0.2,7,0.62,52.24936915,Universiteit Leiden,0.166666667,0.5,0,0,509.82,0.1
+279,1,Life_Sciences,2003,0.11,0.2,7,0.62,52.24936915,Universiteit van Maastricht,0.1,0.1,0,0,697.74,0.2
+280,0,Life_Sciences,2003,0.11,0.2,7,0.62,52.24936915,Nederlands Kankerinstituut,1,0,0,0,557.06,0.09
+281,0,Life_Sciences,2003,0.11,0.2,7,0.62,52.24936915,Universiteit Utrecht,1,0.285714286,0,0,394.4,0.2
+282,1,Life_Sciences,2003,0.11,0.2,7,0.62,52.24936915,Wageningen Universiteit,0.24,0.178571429,1,1,1.14,0.28
+283,1,Life_Sciences,2003,0.11,0.2,7,0.62,52.24936915,Wageningen Universiteit,0.125,0.177777778,0,0,731.41,0.2
+284,1,Life_Sciences,2003,0.11,0.2,7,0.62,52.24936915,Universiteit Leiden,0.3,0.3,0,0,419.46,0.13
+285,1,Life_Sciences,2003,0.11,0.2,7,0.62,52.24936915,Universiteit Utrecht,0.6,0.3,0,0,22.97,0.09
+286,1,Life_Sciences,2003,0.11,0.2,7,0.62,52.24936915,Radboud Universiteit Nijmegen,0.6,0.1,0,0,406.08,0.04
+287,0,Life_Sciences,2003,0.11,0.2,7,0.62,52.24936915,Radboud Universiteit Nijmegen,0.6,0.3,0,0,598.18,0.08
+288,1,Life_Sciences,2003,0.11,0.2,7,0.62,52.24936915,Universiteit van Amsterdam,0,0,1,1,349.16,0.04
+289,1,Life_Sciences,2003,0.11,0.2,7,0.62,52.24936915,Universiteit Utrecht,1,0,2,2,62.32,0.03
+290,0,Life_Sciences,2003,0.11,0.2,7,0.62,52.24936915,Radboud Universiteit Nijmegen,1,0,0,0,156.83,0.02
+291,1,Life_Sciences,2003,0.11,0.2,7,0.62,52.24936915,Wageningen Universiteit,0.2,0.1,0,0,760.14,0.02
+292,1,Life_Sciences,2004,0.13,0.19,5,0.56,49.65032051,Universiteit van Amsterdam,0.6,0.3,1,2,478.07,0.02
+293,1,Life_Sciences,2004,0.13,0.19,5,0.56,49.65032051,Wageningen Universiteit,0.208333333,0.145454545,1,3,685.01,0.27
+294,1,Life_Sciences,2004,0.13,0.19,5,0.56,49.65032051,Radboud Universiteit Nijmegen,0.166666667,0.166666667,3,2,401.63,0.11
+295,1,Life_Sciences,2004,0.13,0.19,5,0.56,49.65032051,Technische Universiteit Eindhoven,0.5,0,0,0,1420,0.15
+296,1,Life_Sciences,2004,0.13,0.19,5,0.56,49.65032051,Universiteit Utrecht,0.357142857,0.2,0,0,153.59,0.11
+297,1,Life_Sciences,2004,0.13,0.19,5,0.56,49.65032051,Universiteit Utrecht,0.1875,0.194444444,2,3,541.08,0.29
+298,0,Life_Sciences,2004,0.13,0.19,5,0.56,49.65032051,Rijksuniversiteit Groningen,0.421052632,0.095238095,0,0,531.27,0.25
+299,1,Life_Sciences,2004,0.13,0.19,5,0.56,49.65032051,Nederlands Kankerinstituut,0.5,0,0,0,533.55,0.17
+300,1,Life_Sciences,2004,0.13,0.19,5,0.56,49.65032051,Universiteit Twente,0.4,0.111111111,0,0,1099.13,0.22
+301,1,Life_Sciences,2004,0.13,0.19,5,0.56,49.65032051,Universiteit Twente,0.071428571,0.133333333,0,0,1914.66,0.06
+302,1,Life_Sciences,2004,0.13,0.19,5,0.56,49.65032051,Erasmus Universiteit Rotterdam,0.09375,0.111111111,0,0,943.5,0.13
+303,1,Life_Sciences,2004,0.13,0.19,5,0.56,49.65032051,Universiteit Leiden,0.2,0.2,0,0,895.2,0.11
+304,1,Life_Sciences,2004,0.13,0.19,5,0.56,49.65032051,Radboud Universiteit Nijmegen,0.5,0,0,0,495,0.13
+305,1,Life_Sciences,2004,0.13,0.19,5,0.56,49.65032051,Radboud Universiteit Nijmegen,0.333333333,0.166666667,0,0,512.14,0.16
+306,1,Life_Sciences,2004,0.13,0.19,5,0.56,49.65032051,Universiteit van Maastricht,0.5,0.166666667,0,0,949.71,0.14
+307,1,Life_Sciences,2004,0.13,0.19,5,0.56,49.65032051,Vrije Universiteit Amsterdam,1,1,0,0,800.66,0.02
+308,1,Life_Sciences,2004,0.13,0.19,5,0.56,49.65032051,Universiteit Twente,0.1,0.1,1,0,742.05,0.02
+309,1,Life_Sciences,2004,0.13,0.19,5,0.56,49.65032051,Universiteit Leiden,1,0.285714286,0,0,795.82,0.17
+310,1,Chemistry,1989,0.18,0.33,6,0.63,35.99903382,Technische Universiteit Eindhoven,0.175438596,0.151515152,1,1,424.27,0.43
+311,0,Chemistry,1989,0.18,0.33,6,0.63,35.99903382,Universiteit Twente,0.357142857,0.066666667,7,5,841.3,0.37
+312,0,Chemistry,1989,0.18,0.33,6,0.63,35.99903382,Wageningen Universiteit,0.428571429,0.066666667,2,1,116.55,0.07
+313,1,Chemistry,1989,0.18,0.33,6,0.63,35.99903382,Technische Universiteit Delft,0,0,0,0,417.8,0.1
+314,1,Chemistry,1989,0.18,0.33,6,0.63,35.99903382,Universiteit Twente,0.6,0.1,7,5,268.43,0.37
+315,1,Chemistry,1989,0.18,0.33,6,0.63,35.99903382,FOM-Instituten,0,1,0,0,182.14,0.1
+316,0,Chemistry,1989,0.18,0.33,6,0.63,35.99903382,Wageningen Universiteit,1,0,0,0,224.45,0.09
+317,0,Chemistry,1989,0.18,0.33,6,0.63,35.99903382,Technische Universiteit Eindhoven,1,0.333333333,0,0,348.05,0.21
+318,0,Chemistry,1989,0.18,0.33,6,0.63,35.99903382,Universiteit Twente,0.142857143,0.133333333,0,0,586.14,0.06
+319,1,Chemistry,1989,0.18,0.33,6,0.63,35.99903382,Wageningen Universiteit,1,1,0,0,183.49,0.06
+320,0,Chemistry,1990,0.2,0.35,5,0.64,34.84166667,Technische Universiteit Eindhoven,0,0,1,0,144.03,0.21
+321,1,Chemistry,1990,0.2,0.35,5,0.64,34.84166667,Universiteit Utrecht,0,0,1,1,184.52,0.11
+322,0,Chemistry,1990,0.2,0.35,5,0.64,34.84166667,Technische Universiteit Delft,0,0,1,2,291.79,0.32
+323,1,Chemistry,1990,0.2,0.35,5,0.64,34.84166667,Technische Universiteit Eindhoven,0.166666667,0,0,0,748.59,0.33
+324,0,Chemistry,1990,0.2,0.35,5,0.64,34.84166667,Technische Universiteit Delft,0.333333333,0.333333333,0,0,286.53,0.21
+325,0,Chemistry,1990,0.2,0.35,5,0.64,34.84166667,Universiteit Leiden,0.333333333,1,0,0,409.63,0.21
+326,0,Chemistry,1990,0.2,0.35,5,0.64,34.84166667,Technische Universiteit Delft,1,1,1,0,420.06,0.03
+327,1,Chemistry,1990,0.2,0.35,5,0.64,34.84166667,Technische Universiteit Delft,0.375,0.111111111,0,0,1038.89,0.29
+328,1,Chemistry,1990,0.2,0.35,5,0.64,34.84166667,Technische Universiteit Eindhoven,0.214285714,0.266666667,2,4,255.09,0.38
+329,0,Chemistry,1990,0.2,0.35,5,0.64,34.84166667,Technische Universiteit Delft,1,0.333333333,2,0,147.02,0.06
+330,1,Chemistry,1990,0.2,0.35,5,0.64,34.84166667,Technische Universiteit Delft,0.25,0.194444444,0,0,388.8,0.17
+331,0,Chemistry,1990,0.2,0.35,5,0.64,34.84166667,Technische Universiteit Eindhoven,0.166666667,0.166666667,0,0,197.27,0.24
+332,0,Chemistry,1990,0.2,0.35,5,0.64,34.84166667,FOM-Instituten,0.2,0.1,1,0,254.28,0.21
+333,0,Chemistry,1990,0.2,0.35,5,0.64,34.84166667,Universiteit Leiden,1,1,0,0,264.78,0.24
+334,0,Chemistry,1990,0.2,0.35,5,0.64,34.84166667,Universiteit van Amsterdam,1,1,1,0,201.78,0.24
+335,0,Chemistry,1990,0.2,0.35,5,0.64,34.84166667,Technische Universiteit Delft,0.4,0.178571429,0,0,399.79,0.21
+336,1,Chemistry,1990,0.2,0.35,5,0.64,34.84166667,Rijksuniversiteit Groningen,0,1,0,0,71.26,0.03
+337,1,Chemistry,1991,0.26,0.42,4,0.69,33.73391813,Technische Universiteit Eindhoven,0.12,0.071428571,2,0,600.55,0.05
+338,1,Chemistry,1991,0.26,0.42,4,0.69,33.73391813,Technische Universiteit Delft,0.12,0.178571429,0,0,452.07,0.32
+339,1,Chemistry,1991,0.26,0.42,4,0.69,33.73391813,Technische Universiteit Delft,0.12,0.25,0,0,1016.04,0.29
+340,0,Chemistry,1991,0.26,0.42,4,0.69,33.73391813,Technische Universiteit Eindhoven,1,1,2,1,624.7,0.3
+341,1,Chemistry,1991,0.26,0.42,4,0.69,33.73391813,Universiteit Twente,0.3,0.3,1,0,266.27,0.23
+342,0,Chemistry,1991,0.26,0.42,4,0.69,33.73391813,Technische Universiteit Delft,0.428571429,0.066666667,0,0,14.48,0.07
+343,0,Chemistry,1991,0.26,0.42,4,0.69,33.73391813,Universiteit Leiden,1,0,0,0,117.03,0.38
+344,0,Chemistry,1991,0.26,0.42,4,0.69,33.73391813,Universiteit Twente,0.684210526,0.19047619,0,0,276.51,0.64
+345,0,Chemistry,1991,0.26,0.42,4,0.69,33.73391813,FOM-Instituten,0,1,0,0,452.07,0.27
+346,1,Chemistry,1992,0.24,0.44,5,0.7,37.24114583,Technische Universiteit Delft,0.166666667,0.166666667,1,0,847.24,0.03
+347,0,Chemistry,1992,0.24,0.44,5,0.7,37.24114583,Technische Universiteit Eindhoven,0.2,0.1,0,0,133.38,0.38
+348,0,Chemistry,1992,0.24,0.44,5,0.7,37.24114583,Radboud Universiteit Nijmegen,0.428571429,0.4,0,0,343.09,0.29
+349,1,Chemistry,1992,0.24,0.44,5,0.7,37.24114583,Universiteit Twente,0.214285714,0.133333333,2,5,1785.82,0.17
+350,1,Chemistry,1992,0.24,0.44,5,0.7,37.24114583,Technische Universiteit Delft,0,0,1,0,154.94,0.05
+351,1,Chemistry,1992,0.24,0.44,5,0.7,37.24114583,Universiteit Twente,0.142857143,0.266666667,1,2,216.04,0.29
+352,1,Chemistry,1992,0.24,0.44,5,0.7,37.24114583,Universiteit Twente,0.04,0.464285714,1,1,290.16,0.29
+353,1,Chemistry,1992,0.24,0.44,5,0.7,37.24114583,Rijksuniversiteit Groningen,0.0625,0.218181818,2,3,288.44,0.4
+354,0,Chemistry,1992,0.24,0.44,5,0.7,37.24114583,Universiteit Twente,0.5,0,10,4,94.19,0.46
+355,1,Chemistry,1992,0.24,0.44,5,0.7,37.24114583,Universiteit Twente,0.333333333,0.333333333,3,3,456.09,0.4
+356,1,Chemistry,1992,0.24,0.44,5,0.7,37.24114583,Technische Universiteit Eindhoven,0.4,0.3,0,0,270.79,0.08
+357,1,Chemistry,1992,0.24,0.44,5,0.7,37.24114583,Universiteit Twente,1,0.333333333,0,0,382.63,0.24
+358,1,Chemistry,1992,0.24,0.44,5,0.7,37.24114583,Universiteit Twente,0.16,0.178571429,0,0,344.78,0.08
+359,0,Chemistry,1993,0.28,0.47,4,0.74,46.93859649,Technische Universiteit Eindhoven,0.210526316,0.19047619,1,2,492.84,0.28
+360,1,Chemistry,1993,0.28,0.47,4,0.74,46.93859649,Universiteit Utrecht,0.166666667,0.333333333,0,0,430.73,0.36
+361,1,Chemistry,1993,0.28,0.47,4,0.74,46.93859649,Universiteit Twente,0.142857143,0.266666667,4,15,300.67,0.36
+362,0,Chemistry,1993,0.28,0.47,4,0.74,46.93859649,Technische Universiteit Delft,0.6,0.6,3,5,390.01,0.35
+363,0,Chemistry,1993,0.28,0.47,4,0.74,46.93859649,Rijksuniversiteit Groningen,0.0625,0.109090909,3,12,578.13,0.39
+364,0,Chemistry,1993,0.28,0.47,4,0.74,46.93859649,Radboud Universiteit Nijmegen,0.5,0.5,0,0,242.35,0.33
+365,1,Chemistry,1993,0.28,0.47,4,0.74,46.93859649,Rijksuniversiteit Groningen,0.166666667,0.333333333,0,0,270.87,0.36
+366,0,Chemistry,1993,0.28,0.47,4,0.74,46.93859649,Technische Universiteit Delft,0.142857143,0.2,1,3,260.05,0.36
+367,1,Chemistry,1993,0.28,0.47,4,0.74,46.93859649,Technische Universiteit Eindhoven,0.3,0.1,1,2,163.48,0.2
+368,0,Chemistry,1993,0.28,0.47,4,0.74,46.93859649,Wageningen Universiteit,0.357142857,0.266666667,0,0,630.65,0.55
+369,1,Chemistry,1993,0.28,0.47,4,0.74,46.93859649,Technische Universiteit Eindhoven,0.3,0.1,1,0,674.79,0.41
+370,1,Chemistry,1993,0.28,0.47,4,0.74,46.93859649,Technische Universiteit Delft,0.2,0.2,0,0,839.97,0.37
+371,0,Chemistry,1993,0.28,0.47,4,0.74,46.93859649,Rijksuniversiteit Groningen,0.333333333,0.333333333,0,0,808.59,0.33
+372,0,Chemistry,1993,0.28,0.47,4,0.74,46.93859649,Radboud Universiteit Nijmegen,0.333333333,0.5,3,2,291.91,0.33
+373,0,Chemistry,1993,0.28,0.47,4,0.74,46.93859649,Technische Universiteit Delft,0.368421053,0.095238095,0,0,342.15,0.48
+374,1,Chemistry,1993,0.28,0.47,4,0.74,46.93859649,Technische Universiteit Delft,0.333333333,0.333333333,0,0,396.28,0.23
+375,0,Chemistry,1993,0.28,0.47,4,0.74,46.93859649,FOM-Instituten,0.333333333,0.333333333,1,0,429.91,0.39
+376,1,Chemistry,1993,0.28,0.47,4,0.74,46.93859649,Technische Universiteit Delft,0,0.071428571,0,0,180.93,0.27
+377,1,Chemistry,1993,0.28,0.47,4,0.74,46.93859649,Universiteit Twente,0.333333333,0,1,0,310.88,0.24
+378,1,Chemistry,1993,0.28,0.47,4,0.74,46.93859649,Universiteit Twente,1,0,0,0,291.33,0.03
+379,1,Chemistry,1993,0.28,0.47,4,0.74,46.93859649,Universiteit Utrecht,0.145833333,0.163636364,0,0,587.88,0.04
+380,1,Chemistry,1993,0.28,0.47,4,0.74,46.93859649,Universiteit Twente,1,1,2,0,406.13,0.01
+381,1,Chemistry,1994,0.3,0.47,6,0.74,44.71064815,Technische Universiteit Delft,0,0,4,5,238.09,0.03
+382,1,Chemistry,1994,0.3,0.47,6,0.74,44.71064815,Technische Universiteit Delft,0.2,0,2,1,311.99,0.42
+383,1,Chemistry,1994,0.3,0.47,6,0.74,44.71064815,Technische Universiteit Eindhoven,0.263157895,0.333333333,3,2,389.37,0.08
+384,0,Chemistry,1994,0.3,0.47,6,0.74,44.71064815,Universiteit Twente,0,0,2,0,596.27,0.25
+385,0,Chemistry,1994,0.3,0.47,6,0.74,44.71064815,Universiteit Leiden,0.333333333,0,1,1,1002.2,0.72
+386,1,Chemistry,1994,0.3,0.47,6,0.74,44.71064815,Technische Universiteit Delft,0,0,2,0,165.38,0.01
+387,0,Chemistry,1994,0.3,0.47,6,0.74,44.71064815,Universiteit Utrecht,0.333333333,0.333333333,0,0,233.56,0.38
+388,1,Chemistry,1994,0.3,0.47,6,0.74,44.71064815,Universiteit van Amsterdam,1,1,0,0,1041.77,0.35
+389,0,Chemistry,1994,0.3,0.47,6,0.74,44.71064815,Universiteit Utrecht,0.4,0.3,2,3,188.53,0.62
+390,1,Chemistry,1994,0.3,0.47,6,0.74,44.71064815,Technische Universiteit Delft,0.157894737,0.19047619,0,0,219.46,0.49
+391,1,Chemistry,1994,0.3,0.47,6,0.74,44.71064815,Radboud Universiteit Nijmegen,0.333333333,0,1,0,352.5,0.24
+392,1,Chemistry,1994,0.3,0.47,6,0.74,44.71064815,Technische Universiteit Eindhoven,0.076923077,0.1,0,0,179.58,0.31
+393,1,Chemistry,1994,0.3,0.47,6,0.74,44.71064815,Universiteit Utrecht,0.32,0.107142857,2,4,923.46,0.39
+394,1,Chemistry,1994,0.3,0.47,6,0.74,44.71064815,Technische Universiteit Delft,0.5,0.166666667,0,0,321.04,0.38
+395,0,Chemistry,1994,0.3,0.47,6,0.74,44.71064815,Technische Universiteit Delft,0.166666667,0.333333333,1,0,170.31,0.04
+396,0,Chemistry,1994,0.3,0.47,6,0.74,44.71064815,Rijksuniversiteit Groningen,0.166666667,0.166666667,0,0,281,0.06
+397,0,Chemistry,1995,0.32,0.45,4,0.72,43.98792271,FOM-Instituten,0,0.333333333,2,0,709.65,0.31
+398,1,Chemistry,1995,0.32,0.45,4,0.72,43.98792271,Technische Universiteit Delft,1,0.333333333,3,1,287.61,0.1
+399,1,Chemistry,1995,0.32,0.45,4,0.72,43.98792271,Universiteit Twente,0.3,0,1,0,509.97,0.29
+400,0,Chemistry,1995,0.32,0.45,4,0.72,43.98792271,Technische Universiteit Eindhoven,0.071428571,0.066666667,0,0,770.97,0.47
+401,0,Chemistry,1995,0.32,0.45,4,0.72,43.98792271,Universiteit Utrecht,0,0.333333333,1,1,256.13,0.34
+402,1,Chemistry,1995,0.32,0.45,4,0.72,43.98792271,Technische Universiteit Eindhoven,0.166666667,0,0,0,451.99,0.43
+403,1,Chemistry,1995,0.32,0.45,4,0.72,43.98792271,Universiteit van Amsterdam,1,0.2,0,0,395.92,0.31
+404,1,Chemistry,1995,0.32,0.45,4,0.72,43.98792271,Universiteit Twente,0.09375,0.111111111,0,0,996.13,0.31
+405,1,Chemistry,1995,0.32,0.45,4,0.72,43.98792271,Wageningen Universiteit,1,0.333333333,0,0,690.95,0.49
+406,1,Chemistry,1995,0.32,0.45,4,0.72,43.98792271,Technische Universiteit Delft,0.157894737,0.095238095,2,3,553.52,0.34
+407,0,Chemistry,1995,0.32,0.45,4,0.72,43.98792271,Universiteit Twente,0.3,0.1,0,0,248.4,0.35
+408,0,Chemistry,1995,0.32,0.45,4,0.72,43.98792271,Wageningen Universiteit,0.333333333,0.166666667,0,0,478.53,0.32
+409,1,Chemistry,1995,0.32,0.45,4,0.72,43.98792271,Technische Universiteit Delft,0.1,0.2,0,0,544.86,0.07
+410,1,Chemistry,1996,0.31,0.43,4,0.7,42.53755869,Universiteit Twente,0.4,0.1,5,1,749.74,0.29
+411,1,Chemistry,1996,0.31,0.43,4,0.7,42.53755869,Universiteit Twente,0.214285714,0.133333333,5,1,595.32,0.28
+412,0,Chemistry,1996,0.31,0.43,4,0.7,42.53755869,Technische Universiteit Eindhoven,0.142857143,0.066666667,1,2,298.77,0.41
+413,1,Chemistry,1996,0.31,0.43,4,0.7,42.53755869,Universiteit Twente,1,0.166666667,0,0,433.34,0.5
+414,1,Chemistry,1996,0.31,0.43,4,0.7,42.53755869,Universiteit Twente,0.2,0.2,0,0,915.17,0.06
+415,1,Chemistry,1996,0.31,0.43,4,0.7,42.53755869,Universiteit Twente,0.214285714,0.066666667,0,0,715.83,0.65
+416,1,Chemistry,1996,0.31,0.43,4,0.7,42.53755869,Technische Universiteit Eindhoven,0,0,0,0,573.21,0.03
+417,0,Chemistry,1996,0.31,0.43,4,0.7,42.53755869,Wageningen Universiteit,0,0.333333333,0,0,417.77,0.07
+418,0,Chemistry,1996,0.31,0.43,4,0.7,42.53755869,Universiteit Twente,0,0,0,0,507.66,0.43
+419,1,Chemistry,1996,0.31,0.43,4,0.7,42.53755869,Universiteit Twente,0.5,0,0,0,492.56,0.37
+420,0,Chemistry,1997,0.29,0.4,5,0.73,46.15527426,Technische Universiteit Delft,0.6,0.1,3,0,438.56,0.3
+421,1,Chemistry,1997,0.29,0.4,5,0.73,46.15527426,Universiteit Twente,0.4,0.2,1,1,753.32,0.41
+422,0,Chemistry,1997,0.29,0.4,5,0.73,46.15527426,Wageningen Universiteit,0,0,1,0,202.43,0.01
+423,1,Chemistry,1997,0.29,0.4,5,0.73,46.15527426,Technische Universiteit Delft,0.642857143,0.2,1,0,193.72,0.03
+424,1,Chemistry,1997,0.29,0.4,5,0.73,46.15527426,Radboud Universiteit Nijmegen,0.09375,0.083333333,2,1,922.97,0.14
+425,0,Chemistry,1997,0.29,0.4,5,0.73,46.15527426,Radboud Universiteit Nijmegen,0.166666667,0.5,4,2,1342.45,0.24
+426,1,Chemistry,1997,0.29,0.4,5,0.73,46.15527426,Technische Universiteit Eindhoven,0.3,0.1,0,0,605.87,0.45
+427,0,Chemistry,1997,0.29,0.4,5,0.73,46.15527426,Universiteit Utrecht,0.333333333,0,1,1,800.12,0.45
+428,1,Chemistry,1997,0.29,0.4,5,0.73,46.15527426,Technische Universiteit Eindhoven,0.1,0.1,0,0,347.01,0.41
+429,0,Chemistry,1997,0.29,0.4,5,0.73,46.15527426,Rijksuniversiteit Groningen,0.357142857,0.133333333,1,0,525.26,0.16
+430,1,Chemistry,1997,0.29,0.4,5,0.73,46.15527426,Technische Universiteit Eindhoven,0.4,0.4,0,0,667.04,0.09
+431,1,Chemistry,1997,0.29,0.4,5,0.73,46.15527426,Technische Universiteit Delft,0.333333333,0.333333333,0,0,497.91,0.24
+432,1,Chemistry,1997,0.29,0.4,5,0.73,46.15527426,Universiteit Leiden,0,0,0,0,228.82,0.43
+433,1,Chemistry,1997,0.29,0.4,5,0.73,46.15527426,Universiteit Twente,1,0,0,0,679.05,0.36
+434,0,Chemistry,1997,0.29,0.4,5,0.73,46.15527426,Vrije Universiteit Amsterdam,1,1,0,0,526.27,0.04
+435,1,Chemistry,1998,0.22,0.39,6,0.75,44.38849206,Universiteit Utrecht,0.5,0.166666667,2,3,685.67,0.41
+436,1,Chemistry,1998,0.22,0.39,6,0.75,44.38849206,Technische Universiteit Delft,0.3,0.1,1,0,433.92,0.01
+437,1,Chemistry,1998,0.22,0.39,6,0.75,44.38849206,Technische Universiteit Delft,1,0.166666667,1,0,437.62,0.03
+438,0,Chemistry,1998,0.22,0.39,6,0.75,44.38849206,Universiteit van Amsterdam,1,0,1,1,502.3,0.38
+439,1,Chemistry,1998,0.22,0.39,6,0.75,44.38849206,Universiteit van Amsterdam,1,0,1,2,342.76,0.06
+440,0,Chemistry,1998,0.22,0.39,6,0.75,44.38849206,Technische Universiteit Delft,0.333333333,0,4,2,360.29,0.46
+441,1,Chemistry,1998,0.22,0.39,6,0.75,44.38849206,Rijksuniversiteit Groningen,0.2,0.066666667,1,2,934.26,1
+442,0,Chemistry,1998,0.22,0.39,6,0.75,44.38849206,Technische Universiteit Eindhoven,0.333333333,0,1,0,300.29,0.39
+443,1,Chemistry,1998,0.22,0.39,6,0.75,44.38849206,Universiteit Twente,0.2,0.142857143,1,1,441.23,0.44
+444,1,Chemistry,1998,0.22,0.39,6,0.75,44.38849206,Radboud Universiteit Nijmegen,0.166666667,0.166666667,0,0,296.96,0.24
+445,1,Chemistry,1998,0.22,0.39,6,0.75,44.38849206,Technische Universiteit Delft,0.3,0.1,1,1,1821.19,0.08
+446,0,Chemistry,1998,0.22,0.39,6,0.75,44.38849206,Universiteit Utrecht,0.071428571,0.066666667,0,0,65.84,0.1
+447,1,Chemistry,1998,0.22,0.39,6,0.75,44.38849206,Nederlands Instituut voor Ecologie,0.3,0.1,0,0,230.29,0.03
+448,0,Chemistry,1998,0.22,0.39,6,0.75,44.38849206,Wageningen Universiteit,0.210526316,0.142857143,0,0,870.71,0.09
+449,1,Chemistry,1998,0.22,0.39,6,0.75,44.38849206,Wageningen Universiteit,0.166666667,0.166666667,0,0,404.98,0.04
+450,1,Chemistry,1999,0.23,0.37,7,0.78,45.79845095,Technische Universiteit Delft,1,0,1,0,1099.14,0.37
+451,0,Chemistry,1999,0.23,0.37,7,0.78,45.79845095,Technische Universiteit Eindhoven,0,0,1,2,420.17,0.4
+452,1,Chemistry,1999,0.23,0.37,7,0.78,45.79845095,Technische Universiteit Delft,0.2,0.1,3,1,431.5,0.06
+453,1,Chemistry,1999,0.23,0.37,7,0.78,45.79845095,Universiteit Leiden,0.2,0.4,0,0,438.7,0.16
+454,1,Chemistry,1999,0.23,0.37,7,0.78,45.79845095,Vrije Universiteit Amsterdam,0.473684211,0.19047619,1,1,371.63,0.09
+455,1,Chemistry,1999,0.23,0.37,7,0.78,45.79845095,Technische Universiteit Eindhoven,0.5,0.166666667,0,0,969.27,0.39
+456,1,Chemistry,1999,0.23,0.37,7,0.78,45.79845095,Universiteit Twente,0.32,0.142857143,6,3,762.44,0.22
+457,1,Chemistry,1999,0.23,0.37,7,0.78,45.79845095,Wageningen Universiteit,0.333333333,0,0,0,1066.96,0.05
+458,0,Chemistry,1999,0.23,0.37,7,0.78,45.79845095,Universiteit van Amsterdam,1,0,0,0,586.71,0.41
+459,0,Chemistry,1999,0.23,0.37,7,0.78,45.79845095,Universiteit Leiden,1,0,2,4,220.97,0.09
+460,1,Chemistry,1999,0.23,0.37,7,0.78,45.79845095,Rijksuniversiteit Groningen,0.1,0,2,2,1650.44,0.24
+461,1,Chemistry,1999,0.23,0.37,7,0.78,45.79845095,Universiteit Utrecht,0,0,1,1,520.03,0.23
+462,0,Chemistry,1999,0.23,0.37,7,0.78,45.79845095,Technische Universiteit Delft,0.333333333,0.166666667,1,1,416.74,0.17
+463,0,Chemistry,1999,0.23,0.37,7,0.78,45.79845095,Technische Universiteit Delft,0.2,0.3,0,0,398.64,0.46
+464,1,Chemistry,1999,0.23,0.37,7,0.78,45.79845095,Rijksuniversiteit Groningen,1,0,1,0,803.04,0.37
+465,1,Chemistry,1999,0.23,0.37,7,0.78,45.79845095,Universiteit Leiden,1,0.142857143,0,0,854.42,0.37
+466,1,Chemistry,1999,0.23,0.37,7,0.78,45.79845095,Wageningen Universiteit,0,0,0,0,412.8,0.2
+467,1,Chemistry,1999,0.23,0.37,7,0.78,45.79845095,Vrije Universiteit Amsterdam,0.428571429,0.4,0,0,441.05,0.06
+468,0,Chemistry,1999,0.23,0.37,7,0.78,45.79845095,Wageningen Universiteit,0.166666667,0.166666667,0,0,512.17,0.05
+469,1,Chemistry,1999,0.23,0.37,7,0.78,45.79845095,Radboud Universiteit Nijmegen,0.3,0.6,0,0,307.88,0.05
+470,0,Chemistry,2000,0.2,0.31,8,0.77,42.58928571,Technische Universiteit Delft,0.3,0.1,1,0,168.05,0.16
+471,0,Chemistry,2000,0.2,0.31,8,0.77,42.58928571,Wageningen Universiteit,0.333333333,0,1,1,933.16,0.09
+472,0,Chemistry,2000,0.2,0.31,8,0.77,42.58928571,Technische Universiteit Eindhoven,0,1,2,3,1015.07,0.09
+473,1,Chemistry,2000,0.2,0.31,8,0.77,42.58928571,Technische Universiteit Delft,1,0,5,4,853.93,0.4
+474,0,Chemistry,2000,0.2,0.31,8,0.77,42.58928571,Wageningen Universiteit,1,1,2,0,253.35,0.1
+475,0,Chemistry,2000,0.2,0.31,8,0.77,42.58928571,Technische Universiteit Eindhoven,0.357142857,0.133333333,2,3,1502.83,0.4
+476,0,Chemistry,2000,0.2,0.31,8,0.77,42.58928571,Universiteit Twente,0.210526316,0.285714286,2,3,403.7,0.49
+477,1,Chemistry,2000,0.2,0.31,8,0.77,42.58928571,Universiteit Utrecht,0.3,0.1,2,4,731.86,0.04
+478,1,Chemistry,2000,0.2,0.31,8,0.77,42.58928571,Universiteit Utrecht,0.5,0.166666667,0,0,615.27,0.38
+479,0,Chemistry,2000,0.2,0.31,8,0.77,42.58928571,Technische Universiteit Eindhoven,0.5,0.166666667,0,0,963.57,0.12
+480,0,Chemistry,2000,0.2,0.31,8,0.77,42.58928571,Technische Universiteit Delft,0.071428571,0.066666667,0,0,752.52,0.14
+481,0,Chemistry,2000,0.2,0.31,8,0.77,42.58928571,Rijksuniversiteit Groningen,0.142857143,0,0,0,173.84,0.48
+482,0,Chemistry,2000,0.2,0.31,8,0.77,42.58928571,Universiteit Leiden,1,0,0,0,518.81,0.09
+483,0,Chemistry,2000,0.2,0.31,8,0.77,42.58928571,Universiteit Utrecht,0.357142857,0.066666667,0,0,3432.03,0.19
+484,1,Chemistry,2000,0.2,0.31,8,0.77,42.58928571,Universiteit van Amsterdam,0.333333333,0.166666667,0,0,898.55,0.37
+485,0,Chemistry,2000,0.2,0.31,8,0.77,42.58928571,Radboud Universiteit Nijmegen,0,0,0,0,714.54,0.35
+486,0,Chemistry,2000,0.2,0.31,8,0.77,42.58928571,Buiten-Universitaire Onderzoekinstellingen,1,1,0,0,590.56,0.01
+487,0,Chemistry,2000,0.2,0.31,8,0.77,42.58928571,Universiteit van Amsterdam,0.333333333,0,0,0,675.6,0.36
+488,1,Chemistry,2000,0.2,0.31,8,0.77,42.58928571,Technische Universiteit Delft,0.333333333,0,0,0,1269.29,0.01
+489,1,Chemistry,2001,0.19,0.31,8,0.75,45.68590368,Universiteit Twente,0.3,0.3,1,0,404.89,0.06
+490,0,Chemistry,2001,0.19,0.31,8,0.75,45.68590368,Wageningen Universiteit,0.166666667,0.166666667,1,2,451.64,0.15
+491,1,Chemistry,2001,0.19,0.31,8,0.75,45.68590368,Universiteit Twente,0.333333333,0.333333333,7,0,798.61,0.01
+492,1,Chemistry,2001,0.19,0.31,8,0.75,45.68590368,Technische Universiteit Eindhoven,0.5,0,1,0,749.05,0.06
+493,1,Chemistry,2001,0.19,0.31,8,0.75,45.68590368,Technische Universiteit Eindhoven,0.333333333,0.333333333,4,0,658.22,0.18
+494,0,Chemistry,2001,0.19,0.31,8,0.75,45.68590368,Technische Universiteit Delft,0.3,0,4,2,548.98,0.43
+495,1,Chemistry,2001,0.19,0.31,8,0.75,45.68590368,Universiteit Twente,0.105263158,0.285714286,0,0,1251.69,0.11
+496,1,Chemistry,2001,0.19,0.31,8,0.75,45.68590368,Technische Universiteit Delft,0.52,0.071428571,1,2,279.38,0.09
+497,0,Chemistry,2001,0.19,0.31,8,0.75,45.68590368,Radboud Universiteit Nijmegen,1,1,1,1,36.1,0.09
+498,0,Chemistry,2001,0.19,0.31,8,0.75,45.68590368,Technische Universiteit Eindhoven,0,1,2,2,788.08,0.32
+499,0,Chemistry,2001,0.19,0.31,8,0.75,45.68590368,Rijksuniversiteit Groningen,0,0.333333333,0,0,571.33,0.36
+500,1,Chemistry,2001,0.19,0.31,8,0.75,45.68590368,Universiteit Twente,0.214285714,0.2,0,0,1098.99,0.02
+501,1,Chemistry,2001,0.19,0.31,8,0.75,45.68590368,Universiteit Twente,0.333333333,0,0,0,914,0.38
+502,1,Chemistry,2001,0.19,0.31,8,0.75,45.68590368,Universiteit Utrecht,0.333333333,0,0,0,361.32,0.1
+503,1,Chemistry,2001,0.19,0.31,8,0.75,45.68590368,Universiteit Leiden,0.333333333,0.333333333,0,0,719.14,0.14
+504,1,Chemistry,2002,0.18,0.32,6,0.7,49.2535461,Wageningen Universiteit,0.428571429,0.066666667,1,1,399.42,0.1
+505,1,Chemistry,2002,0.18,0.32,6,0.7,49.2535461,Universiteit Twente,0.642857143,0.133333333,1,1,794.47,0.02
+506,1,Chemistry,2002,0.18,0.32,6,0.7,49.2535461,Universiteit Twente,0.142857143,0.266666667,7,1,658.07,0.05
+507,1,Chemistry,2002,0.18,0.32,6,0.7,49.2535461,Universiteit Utrecht,1,0,1,1,280.92,0.09
+508,1,Chemistry,2002,0.18,0.32,6,0.7,49.2535461,Universiteit Twente,0.4,0.1,3,6,415.58,0.37
+509,0,Chemistry,2002,0.18,0.32,6,0.7,49.2535461,Universiteit Utrecht,0,0,2,0,683.03,0.15
+510,1,Chemistry,2002,0.18,0.32,6,0.7,49.2535461,Technische Universiteit Eindhoven,0.052631579,0.095238095,2,2,227.98,0.49
+511,0,Chemistry,2002,0.18,0.32,6,0.7,49.2535461,Universiteit Twente,0.4,0,2,2,728.65,0.12
+512,0,Chemistry,2002,0.18,0.32,6,0.7,49.2535461,Technische Universiteit Delft,1,0,5,0,643.2,0.11
+513,0,Chemistry,2002,0.18,0.32,6,0.7,49.2535461,Technische Universiteit Eindhoven,0.125,0.109090909,5,3,1185.05,0.16
+514,1,Chemistry,2002,0.18,0.32,6,0.7,49.2535461,Universiteit Twente,0.333333333,0.333333333,3,6,509.05,0.14
+515,0,Chemistry,2002,0.18,0.32,6,0.7,49.2535461,Technische Universiteit Delft,0.1,0.2,3,0,214.8,0.09
+516,0,Chemistry,2002,0.18,0.32,6,0.7,49.2535461,Universiteit Twente,0.642857143,0.2,0,0,168.26,0.14
+517,1,Chemistry,2002,0.18,0.32,6,0.7,49.2535461,Universiteit Twente,0.333333333,0.333333333,2,1,408.01,0.14
+518,0,Chemistry,2002,0.18,0.32,6,0.7,49.2535461,Universiteit Twente,0.5,0.166666667,0,0,568.2,0.16
+519,1,Chemistry,2002,0.18,0.32,6,0.7,49.2535461,Universiteit Twente,0.166666667,0.166666667,0,0,288.79,0.34
+520,1,Chemistry,2002,0.18,0.32,6,0.7,49.2535461,Nederlands Instituut voor Ecologie,0.214285714,0.466666667,0,0,276.08,0.03
+521,1,Chemistry,2002,0.18,0.32,6,0.7,49.2535461,Technische Universiteit Delft,0.5,0.166666667,0,0,688.25,0.02
+522,0,Chemistry,2003,0.18,0.31,5,0.67,51.40721649,Technische Universiteit Delft,0.166666667,0,1,2,559.73,0.43
+523,1,Chemistry,2003,0.18,0.31,5,0.67,51.40721649,Technische Universiteit Delft,0.421052632,0.19047619,4,6,425.34,0.04
+524,1,Chemistry,2003,0.18,0.31,5,0.67,51.40721649,Technische Universiteit Eindhoven,0.36,0.142857143,6,7,612.22,0.45
+525,1,Chemistry,2003,0.18,0.31,5,0.67,51.40721649,Wageningen Universiteit,0.333333333,0,2,2,967.44,0.17
+526,0,Chemistry,2003,0.18,0.31,5,0.67,51.40721649,Universiteit Twente,1,0.2,8,5,60.32,0.07
+527,1,Chemistry,2003,0.18,0.31,5,0.67,51.40721649,Universiteit Twente,0.166666667,0.166666667,2,1,61.97,0.23
+528,0,Chemistry,2003,0.18,0.31,5,0.67,51.40721649,Universiteit Twente,1,0,2,1,609.38,0.11
+529,0,Chemistry,2003,0.18,0.31,5,0.67,51.40721649,Universiteit Twente,0.166666667,0.166666667,1,2,205.32,0.11
+530,1,Chemistry,2003,0.18,0.31,5,0.67,51.40721649,Technische Universiteit Delft,0.48,0.142857143,4,6,473.28,0.04
+531,1,Chemistry,2003,0.18,0.31,5,0.67,51.40721649,Technische Universiteit Eindhoven,0.15625,0.166666667,5,11,802.22,0.15
+532,1,Chemistry,2003,0.18,0.31,5,0.67,51.40721649,Universiteit van Amsterdam,0.3,0.155555556,0,0,493,0.45
+533,1,Chemistry,2003,0.18,0.31,5,0.67,51.40721649,Technische Universiteit Delft,0.083333333,0.127272727,0,0,568.05,0.08
+534,1,Chemistry,2003,0.18,0.31,5,0.67,51.40721649,Technische Universiteit Eindhoven,0.375,0.138888889,0,0,683.24,0.09
+535,1,Chemistry,2003,0.18,0.31,5,0.67,51.40721649,Radboud Universiteit Nijmegen,0.333333333,0,0,0,496.84,0.2
+536,1,Chemistry,2003,0.18,0.31,5,0.67,51.40721649,Technische Universiteit Eindhoven,0.2,0,0,0,156.04,0.16
+537,1,Chemistry,2003,0.18,0.31,5,0.67,51.40721649,Radboud Universiteit Nijmegen,0.357142857,0.066666667,0,0,547.94,0.08
+538,1,Chemistry,2003,0.18,0.31,5,0.67,51.40721649,Universiteit Twente,0.5,0,0,0,790.89,0.01
+539,1,Chemistry,2004,0.17,0.29,6,0.58,49.67269504,Universiteit Twente,1,0.333333333,2,0,650.58,0.23
+540,1,Chemistry,2004,0.17,0.29,6,0.58,49.67269504,Technische Universiteit Eindhoven,0.071428571,0.066666667,7,5,888.92,0.38
+541,1,Chemistry,2004,0.17,0.29,6,0.58,49.67269504,Technische Universiteit Delft,0.052631579,0.333333333,2,1,583.53,0.24
+542,1,Chemistry,2004,0.17,0.29,6,0.58,49.67269504,Universiteit Twente,0.263157895,0.095238095,9,9,590.24,0.24
+543,0,Chemistry,2004,0.17,0.29,6,0.58,49.67269504,Universiteit Twente,0.5,0,0,0,153.59,0.16
+544,1,Chemistry,2004,0.17,0.29,6,0.58,49.67269504,Technische Universiteit Delft,0,0.333333333,0,0,501.86,0.12
+545,1,Chemistry,2004,0.17,0.29,6,0.58,49.67269504,Technische Universiteit Eindhoven,0.2,0.6,0,0,153.59,0.2
+546,0,Chemistry,2004,0.17,0.29,6,0.58,49.67269504,Technische Universiteit Delft,0.1,0.111111111,0,0,460.76,0.3
+547,1,Chemistry,2004,0.17,0.29,6,0.58,49.67269504,Technische Universiteit Eindhoven,0.166666667,0.166666667,0,0,266.51,0.13
+548,1,Chemistry,2004,0.17,0.29,6,0.58,49.67269504,CWI,0.1,0.3,0,0,670.81,0.1
+549,1,Chemistry,2004,0.17,0.29,6,0.58,49.67269504,Technische Universiteit Delft,0.357142857,0.133333333,0,0,153.59,0.11
+550,1,Chemistry,2004,0.17,0.29,6,0.58,49.67269504,Universiteit Utrecht,0.214285714,0.133333333,0,0,226.39,0.03
+551,1,Chemistry,2004,0.17,0.29,6,0.58,49.67269504,Universiteit van Amsterdam,0.421052632,0.047619048,1,1,211.3,0.04
+552,0,Chemistry,2004,0.17,0.29,6,0.58,49.67269504,Universiteit Twente,0.210526316,0.047619048,0,0,620.37,0.31
+553,1,Chemistry,2004,0.17,0.29,6,0.58,49.67269504,Technische Universiteit Eindhoven,0.0625,0.277777778,0,0,153.59,0.24
+554,0,Chemistry,2004,0.17,0.29,6,0.58,49.67269504,Technische Universiteit Eindhoven,0.6,0.3,0,0,460.76,0.17
+555,0,Chemistry,2004,0.17,0.29,6,0.58,49.67269504,Wageningen Universiteit,0.333333333,0,0,0,153.59,0.02
